@@ -18,3 +18,5 @@
 - [ruanyf/jstraing](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
 
 - [React 中常见的动画实现](https://tech.youzan.com/react-animations/)
+
+- [话说Svn与Git的区别](https://www.jianshu.com/p/bfec042349ca)
