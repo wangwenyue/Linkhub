@@ -1,6 +1,6 @@
 # Linkhub
 
-# Links
+## Links
 
 - [你需要 Mobx 还是 Redux？](http://blog.codingplayboy.com/2018/02/11/mobx-vs-redux/)
 
