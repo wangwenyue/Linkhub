@@ -1,5 +1,7 @@
 # Linkhub
 
+# Links
+
 - [你需要 Mobx 还是 Redux？](http://blog.codingplayboy.com/2018/02/11/mobx-vs-redux/)
 
 - [CSS 深入浅出
@@ -20,3 +22,12 @@
 - [React 中常见的动画实现](https://tech.youzan.com/react-animations/)
 
 - [话说Svn与Git的区别](https://www.jianshu.com/p/bfec042349ca)
+
+
+## Questions
+
+Mobx 是否能用 pure component
+
+React 中 export 的问题
+
+observer 的使用问题
