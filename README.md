@@ -23,8 +23,7 @@
 
 - [话说Svn与Git的区别](https://www.jianshu.com/p/bfec042349ca)
 
-- [reveal.js 中文文档](https://vxhly.github.io/2016/09/reveal-js-cn-document/)
-
+- [reveal.js 开箱即用](https://github.com/dong4j/revealjs_md)
 
 ## Questions
 
