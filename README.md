@@ -32,3 +32,5 @@ Mobx 是否能用 pure component
 React 中 export 的问题
 
 observer 的使用问题
+
+pure component vs class 
