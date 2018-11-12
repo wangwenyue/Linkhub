@@ -38,3 +38,5 @@ observer 的使用问题
 pure component vs class 
 
 BrowserRouter 与 HashRouter 的区别
+
+Mobx 中的 componentDidMount 写在哪？
