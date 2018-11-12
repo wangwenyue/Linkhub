@@ -36,3 +36,5 @@ React 中 export 的问题
 observer 的使用问题
 
 pure component vs class 
+
+BrowserRouter 与 HashRouter 的区别
