@@ -18,7 +18,7 @@
 
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 
-- [Fetch API HTTP请求实用指南](https://juejin.im/post/5beb8eefe51d450f9461c481)
+- [Fetch API HTTP 请求实用指南](https://juejin.im/post/5beb8eefe51d450f9461c481)
 
 ## CSS
 
@@ -44,6 +44,7 @@
 
 - [搭建你的 Mobx React 应用](https://github.com/iuap-design/blog/issues/203)
 
+
 ## Others
 
 - [WebStorm 快捷键](https://www.jianshu.com/p/3254f3f77760)
@@ -54,9 +55,11 @@
 
 - [ruanyf/jstraing](https://github.com/ruanyf/jstraining/blob/master/docs/react.md)
 
-- [话说Svn与Git的区别](https://www.jianshu.com/p/bfec042349ca)
+- [话说 Svn 与 Git 的区别](https://www.jianshu.com/p/bfec042349ca)
 
 - [reveal.js 开箱即用](https://github.com/dong4j/revealjs_md)
+
+- [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
 ## Questions
 
