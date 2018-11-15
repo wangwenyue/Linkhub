@@ -27,6 +27,10 @@
 
 - [React Hooks 解析](https://juejin.im/post/5be3ea136fb9a049f9121014)
 
+- [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
+
+- [CSS — BEM 命名规范](https://juejin.im/post/5b925e616fb9a05cdd2ce70d)
+
 ## Questions
 
 Mobx 是否能用 pure component
