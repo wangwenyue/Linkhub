@@ -2,9 +2,9 @@
 
 ## Menu
   
-[JavaScript](# JavaScript)
+[JavaScript](#JavaScript)
 
-[CSS](# CSS)
+[CSS](#CSS)
 
 
 ## JavaScript
