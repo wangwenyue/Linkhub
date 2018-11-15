@@ -18,6 +18,8 @@
 
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/5bdfef86e51d453bf8051bf8)
 
+- [Fetch API HTTP请求实用指南](https://juejin.im/post/5beb8eefe51d450f9461c481)
+
 ## CSS
 
 - [CSS 深入浅出
