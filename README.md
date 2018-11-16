@@ -14,6 +14,8 @@
 
 - [Others](#Others)
 
+- [Zen](#Zen)
+
 - [Questions](#Questions)
 
 
@@ -70,6 +72,9 @@
 
 - [RESTful API 最佳实践](http://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html)
 
+## Zen
+
+- [Learning programming is different from learning a programming language](https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80)
 
 ## Questions
 
