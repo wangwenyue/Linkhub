@@ -53,6 +53,8 @@
 
 - [搭建你的 Mobx React 应用](https://github.com/iuap-design/blog/issues/203)
 
+- [React-Mobx Zhihu Daily](https://github.com/Hancoson/react-mobx-demo)
+
 
 ## webpack
 
