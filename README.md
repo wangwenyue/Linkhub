@@ -27,6 +27,8 @@
 
 - [Fetch API HTTP 请求实用指南](https://juejin.im/post/5beb8eefe51d450f9461c481)
 
+- [JavaScript 事件委托详解](https://zhuanlan.zhihu.com/p/26536815)
+
 
 ## CSS
 
