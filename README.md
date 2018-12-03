@@ -93,6 +93,7 @@
 
 - [Learning programming is different from learning a programming language](https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80)
 
+- [Pointfree 编程风格指南](http://www.ruanyifeng.com/blog/2017/03/pointfree.html)
 
 ## Questions
 
