@@ -29,6 +29,9 @@
 
 - [JavaScript 事件委托详解](https://zhuanlan.zhihu.com/p/26536815)
 
+- [8张图让你一步步看清 async/await 和 promise 的执行顺序](https://segmentfault.com/a/1190000017224799)
+
+- [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89#heading-0)
 
 ## CSS
 
