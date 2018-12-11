@@ -93,7 +93,7 @@
 
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
 
-
+- [HTTP 缓存策略](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn)
 ## Zen
 
 - [Learning programming is different from learning a programming language](https://phpocean.com/blog/article/learning-programming-is-different-from-learning-a-programming-language/80)
