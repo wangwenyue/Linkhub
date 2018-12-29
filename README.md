@@ -35,6 +35,8 @@
 
 - [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
+- [面试官眼中的 Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
+
 ## CSS
 
 - [CSS 深入浅出
