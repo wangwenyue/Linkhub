@@ -37,6 +37,8 @@
 
 - [面试官眼中的 Promise](https://juejin.im/post/5c233a8ee51d450d5a01b712)
 
+- [JavaScript 代码简洁之道](https://juejin.im/post/5c24b7a851882509a76875e8#function)
+
 ## CSS
 
 - [CSS 深入浅出
